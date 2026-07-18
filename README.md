@@ -1,4 +1,4 @@
-<img width="1444" height="1446" alt="_- visual selection (1)" src="https://github.com/user-attachments/assets/7620e78e-00dd-445c-9b54-c4552d29b266" /># 🔐 A Privacy-Aware Framework for Stress Prediction Based on Secure Computational Intelligence
+ 🔐 A Privacy-Aware Framework for Stress Prediction Based on Secure Computational Intelligence
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Preprint-orange?style=for-the-badge"/>
@@ -85,7 +85,8 @@ D(Ŷ_encrypted) = Ŷ          → Decrypt output only
 ### Somewhat Homomorphic Encryption (SHE)
 
 <p align="center">
-  <img src="images/image4.png" width="650" alt="Somewhat Homomorphic Encryption"/>
+  <<img width="758" height="353" alt="image" src="https://github.com/user-attachments/assets/dba49e86-4d88-43ff-a5a1-f994f6ca58b4" />
+>
 </p>
 <p align="center"><i>Fig 4. BFV-based Somewhat Homomorphic Encryption scheme for secure ML inference</i></p>
 
@@ -115,7 +116,8 @@ D(Ŷ_encrypted) = Ŷ          → Decrypt output only
 ### Age Distribution in Dataset
 
 <p align="center">
-  <img src="images/image3.png" width="600" alt="Age Distribution"/>
+  <
+>
 </p>
 <p align="center"><i>Fig 3. Age distribution across dataset — well-balanced across 20–65 age range</i></p>
 
@@ -150,7 +152,8 @@ Four models were trained and evaluated under the encrypted framework:
 ### Model Performance Comparison (MSE + Accuracy)
 
 <p align="center">
-  <img src="images/image16.png" width="650" alt="Model Performance Comparison"/>
+  <<img width="604" height="328" alt="image" src="https://github.com/user-attachments/assets/d672d852-5a6f-41e7-8f71-37f1329f0447" />
+>
 </p>
 <p align="center"><i>Fig 16. MSE vs Accuracy across all four models — Linear Regression leads on both metrics</i></p>
 
@@ -166,28 +169,32 @@ Four models were trained and evaluated under the encrypted framework:
 ### Model Comparison (MSE Bar Chart)
 
 <p align="center">
-  <img src="images/image7.png" width="650" alt="Model Comparison Chart"/>
+  <<img width="594" height="363" alt="image" src="https://github.com/user-attachments/assets/4ef226f2-4416-4a41-ada3-4c13cfc1d16e" />
+>
 </p>
 <p align="center"><i>Fig 7. MSE comparison — Linear Regression achieves lowest error (0.721)</i></p>
 
 ### Cross-Validation Model Performance
 
 <p align="center">
-  <img src="images/image8.png" width="650" alt="Model Performance Statistical"/>
+  <<img width="626" height="328" alt="image" src="https://github.com/user-attachments/assets/ee48a17b-2603-4458-9c71-b5aab551bd28" />
+>
 </p>
 <p align="center"><i>Fig 8. Statistical significance testing — Linear Regression vs. other models (10-fold CV)</i></p>
 
 ### MSE Distribution Across Folds
 
 <p align="center">
-  <img src="images/image19.png" width="650" alt="Distribution of MSE"/>
+  <<img width="673" height="334" alt="image" src="https://github.com/user-attachments/assets/b6f4224e-d25a-4215-aef7-7e1c56c3192c" />
+>
 </p>
 <p align="center"><i>Fig 19. MSE distribution across 10-fold cross-validation folds for all models</i></p>
 
 ### Computation Time by Model
 
 <p align="center">
-  <img src="images/image18.png" width="650" alt="Computation Time"/>
+  <<img width="673" height="385" alt="image" src="https://github.com/user-attachments/assets/0c93dd92-2a1f-4e67-91b3-95f54998e674" />
+>
 </p>
 <p align="center"><i>Fig 18. Computation time — Neural Network (~300s) vs Linear Regression (~90s)</i></p>
 
@@ -198,42 +205,48 @@ Four models were trained and evaluated under the encrypted framework:
 ### Prediction Before vs. After Decryption
 
 <p align="center">
-  <img src="images/image10.png" width="650" alt="Prediction Before and After Decryption"/>
+  <<img width="611" height="356" alt="image" src="https://github.com/user-attachments/assets/f6aa4014-6b7a-4ac2-b978-466c5d00e4de" />
+>
 </p>
 <p align="center"><i>Fig 10. Original vs. decrypted predictions — encryption has negligible impact on output</i></p>
 
 ### Original vs. Decrypted Predictions (Scatter Plot)
 
 <p align="center">
-  <img src="images/image13.png" width="650" alt="Original vs Decrypted Predictions Scatter"/>
+  <<img width="613" height="377" alt="image" src="https://github.com/user-attachments/assets/bda458c6-8d39-422a-8ee7-776402b4f58d" />
+>
 </p>
 <p align="center"><i>Fig 13. Scatter plot — points cluster tightly along diagonal, confirming prediction integrity</i></p>
 
 ### Distribution of Prediction Differences
 
 <p align="center">
-  <img src="images/image6.png" width="650" alt="Distribution of Prediction Differences"/>
+  <<img width="646" height="349" alt="image" src="https://github.com/user-attachments/assets/6ce8cd35-27f3-4096-9834-90a8a33f12ea" />
+>
 </p>
 <p align="center"><i>Fig 6. Histogram of prediction differences — minimal deviation between original and decrypted</i></p>
 
 ### Absolute Errors Across Samples
 
 <p align="center">
-  <img src="images/image9.png" width="650" alt="Absolute Error"/>
+  <<img width="652" height="379" alt="image" src="https://github.com/user-attachments/assets/94647dcb-7821-4feb-bcfa-d61f79c83023" />
+>
 </p>
 <p align="center"><i>Fig 9. Absolute errors across 20 samples — all within 0.00–0.10 range</i></p>
 
 ### Error Distribution (Box Plot)
 
 <p align="center">
-  <img src="images/image14.png" width="650" alt="Error Distribution Box Plot"/>
+  <<img width="544" height="348" alt="image" src="https://github.com/user-attachments/assets/e3f3ac64-772a-487a-85ab-0beac73acbd3" />
+>
 </p>
 <p align="center"><i>Fig 14. Error distribution per prediction range — errors remain low across all bins</i></p>
 
 ### BFV vs. LWE Encryption MSE Comparison
 
 <p align="center">
-  <img src="images/image12.png" width="650" alt="Comparison of MSE BFV vs LWE"/>
+  <<img width="622" height="315" alt="image" src="https://github.com/user-attachments/assets/74ea1fb5-d91d-4c83-aaec-a73a68978aea" />
+>
 </p>
 <p align="center"><i>Fig 12. BFV MSE (~0.0030) vs LWE MSE (~0.0035) — both schemes maintain prediction fidelity</i></p>
 
@@ -247,7 +260,8 @@ Four models were trained and evaluated under the encrypted framework:
 ### Time Overhead Comparison
 
 <p align="center">
-  <img src="images/image15.png" width="650" alt="Time Overhead Comparison"/>
+  <<img width="588" height="360" alt="image" src="https://github.com/user-attachments/assets/90f1218e-095b-4de5-bab4-719780fee7e8" />
+>
 </p>
 <p align="center"><i>Fig 15. Encryption (~0.8s) dominates overhead; Prediction (~0.2s) is highly efficient</i></p>
 
@@ -264,7 +278,8 @@ Four models were trained and evaluated under the encrypted framework:
 ### Stress Level by Mental Health Condition
 
 <p align="center">
-  <img src="images/image11.png" width="650" alt="Stress Level by Mental Health Condition"/>
+  <<img width="597" height="359" alt="image" src="https://github.com/user-attachments/assets/94756b6e-60b6-4071-93ab-c7743f62a08b" />
+>
 </p>
 <p align="center"><i>Fig 11. Stress level distribution — individuals with mental health conditions show elevated severity</i></p>
 
@@ -275,14 +290,16 @@ Four models were trained and evaluated under the encrypted framework:
 ### Residual Plot (Random Forest)
 
 <p align="center">
-  <img src="images/image5.png" width="650" alt="Residual Plot"/>
+  <<img width="679" height="359" alt="image" src="https://github.com/user-attachments/assets/2157a385-aef6-447d-a195-755077b778bd" />
+>
 </p>
 <p align="center"><i>Fig 5. Residual plot — no systematic bias pattern, confirming good model fit</i></p>
 
 ### Anomaly Detection (Isolation Forest)
 
 <p align="center">
-  <img src="images/image17.png" width="650" alt="Anomaly Detection 3D Scatter"/>
+  <<img width="580" height="365" alt="image" src="https://github.com/user-attachments/assets/f4a97685-27a6-4381-8471-7e8ed895bb5f" />
+>
 </p>
 <p align="center"><i>Fig 17. 3D scatter — red anomalies highlight outliers with unusual stress/sleep/work patterns</i></p>
 
