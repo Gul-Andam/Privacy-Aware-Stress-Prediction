@@ -116,8 +116,8 @@ D(Ŷ_encrypted) = Ŷ          → Decrypt output only
 ### Age Distribution in Dataset
 
 <p align="center">
-  <
->
+  <<img width="612" height="401" alt="image" src="https://github.com/user-attachments/assets/746f1afd-da43-4fc1-b6eb-3ac8ad72b162" />>
+
 </p>
 <p align="center"><i>Fig 3. Age distribution across dataset — well-balanced across 20–65 age range</i></p>
 
