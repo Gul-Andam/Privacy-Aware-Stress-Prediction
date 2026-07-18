@@ -1,4 +1,4 @@
-# 🔐 A Privacy-Aware Framework for Stress Prediction Based on Secure Computational Intelligence
+<img width="1444" height="1446" alt="_- visual selection (1)" src="https://github.com/user-attachments/assets/7620e78e-00dd-445c-9b54-c4552d29b266" /># 🔐 A Privacy-Aware Framework for Stress Prediction Based on Secure Computational Intelligence
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Preprint-orange?style=for-the-badge"/>
@@ -63,12 +63,14 @@ Existing stress detection systems face a critical gap:
 <p align="center">
   <img src="images/image1.png" width="650" alt="Homomorphic Encryption Overview"/>
 </p>
-<p align="center"><i>Fig 1. Homomorphic Encryption — computations performed directly on encrypted data</i></p>
+<p align="center"><i><img width="892" height="769" alt="napkin 1" src="https://github.com/user-attachments/assets/04c7f150-c482-4278-a29f-d2aa8cdaeddd" />
+</i></p>
 
 ### Encryption Process Workflow
 
 <p align="center">
-  <img src="images/image2.png" width="650" alt="Encryption Workflow"/>
+  <<img width="1444" height="1446" alt="_- visual selection (1)" src="https://github.com/user-attachments/assets/7f398748-071c-4e95-8c42-2cad6f69e0c5" />
+/>
 </p>
 <p align="center"><i>Fig 2. End-to-end encryption workflow: Input → Encrypt → Predict → Decrypt → Output</i></p>
 
